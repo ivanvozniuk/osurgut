@@ -3,7 +3,7 @@ import styled from '@emotion/styled';
 
 import Item from './Item';
 
-export default ({ data, action, ...props }) => (
+export default ({ data = [], action, ...props }) => (
   <Container {...props}>
     {data.map(post => (
       <Item
