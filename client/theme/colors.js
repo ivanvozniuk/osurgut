@@ -1,0 +1,18 @@
+export default {
+  primaryColor: '#3C0099',
+  secondaryColor: '#2F80ED',
+  thirdColor: '#FCAF56',
+  lightColor: '#DBEBFF',
+  darkColor: '#777',
+  darkestColor: '#101010',
+  grayLightColor: '#F0F0F0',
+  grayColor: '#EBEBEB',
+  grayDarkColor: '#7C7C7C',
+  red: '#FF7070',
+  blue: '#5181B8',
+  orange: '#FB571D',
+  textUnderline: '#FFB800',
+  borderUnderline: '#e3e3e3',
+  inputPlaceholder: 'rgba(0, 0, 0, 0.25)',
+  inputTitle: 'rgba(0, 0, 0, 0.45)',
+};
